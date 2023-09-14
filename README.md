@@ -1,5 +1,5 @@
 # RegresionAvanzada: 
-# Proyecto de Análisis de Datos y Modelado de Regresión
+### Prediccion de Precios en Bienes Raices de Australia
 
 Este repositorio contiene el trabajo realizado en un proyecto de análisis de datos y modelado de regresión utilizando Python y diversas bibliotecas de aprendizaje automático. El proyecto se centra en predecir los precios de venta de viviendas utilizando un conjunto de datos de ejemplo.
 
