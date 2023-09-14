@@ -35,6 +35,3 @@ Se llegaron a las siguientes conclusiones:
 - ElasticNet mostró el coeficiente de determinación más bajo, lo que sugiere una estrategia intermedia de regularización.
 
 Es importante destacar que estos resultados son específicos de este conjunto de datos y pueden variar en otros contextos.
-
-¡Gracias por explorar este proyecto de análisis de datos y modelado de regresión!
-
